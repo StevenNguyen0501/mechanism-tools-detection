@@ -1,0 +1,21 @@
+names:
+- caliper
+- crowbar
+- folding ruler
+- hammer
+- handy work light
+- paper cutter
+- pliers
+- pocket knife
+- screwdriver
+- wrench
+nc: 10
+roboflow:
+  license: CC BY 4.0
+  project: mechanical-ver3
+  url: https://universe.roboflow.com/nguyen-phuc-thinh/mechanical-ver3/dataset/2
+  version: 2
+  workspace: nguyen-phuc-thinh
+test: ../test/images
+train: mechanical-ver3-2/train/images
+val: mechanical-ver3-2/valid/images
